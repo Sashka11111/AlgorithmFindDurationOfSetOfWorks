@@ -1,0 +1,6 @@
+
+|javascript:S37764"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(œÚ»ÿÿÿÿÿ8èşåÔò1
+Sjavascript:S2310Q"+Remove this assignment of "neighborVertex".(åÀúªıÿÿÿÿ8èşåÔò1
+njavascript:S3403R"KRemove this "===" check; it will always be false. Did you mean to use "=="?(àÇù8èşåÔò1
+_javascript:S930¥"7This function expects no arguments, but 1 was provided.(È‘ÖÍüÿÿÿÿ8éşåÔò1
+_javascript:S930«"7This function expects no arguments, but 1 was provided.(È‘ÖÍüÿÿÿÿ8éşåÔò1

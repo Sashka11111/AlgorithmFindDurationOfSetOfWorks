@@ -1,0 +1,43 @@
+/* Base styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Title styles */
+.title {
+  text-align: center;
+  background-color: #7c95f8;
+  color: white;
+  font-size: 2em;
+  padding: 10px 20px;
+}
+
+/* Input styles */
+input {
+  width: 100px;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+/* Label styles */
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* Button styles */
+.myButton {
+  background-color: #a0cddd;
+  color: #333;
+  padding: 8px 16px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
